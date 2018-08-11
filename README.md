@@ -10,6 +10,7 @@ You probably want to download the zip file, which contains the most recent build
 The following full-access account will get you in to every file: 
 
 Username: admin
+
 Password: karbon
 
 ## Videos
