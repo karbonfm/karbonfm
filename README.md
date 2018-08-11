@@ -1,4 +1,4 @@
-![Logo](KarbonFM_Logo.png "Logo Title Text 1")
+![Logo](KarbonLogo.png "Logo Title Text 1")
 
 # karbonfm
 This is the main repo for Karbon for FileMaker—a developer framework for building scalable applications in FileMaker. The application is essential a contact management system or CRM, however the true value in #karbonfm is its approach to data modeling, transactional scripting, and a rich library of custom functions that make error handling and validation a breeze.
