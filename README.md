@@ -7,6 +7,11 @@ This is the main repo for Karbon for FileMaker—a developer framework for build
 
 You probably want to download the zip file, which contains the most recent build. Individual files can also be downloaded separately.
 
+The following full-access account will get you in to every file: 
+
+Username: admin
+Password: karbon
+
 ## Videos
 
 Stay tuned…
