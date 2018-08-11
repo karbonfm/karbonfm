@@ -5,7 +5,7 @@ This is the main repo for Karbon for FileMaker—a developer framework for build
 
 ## Getting Started
 
-Download or clone this repo. 
+You probably want to download the zip file, which contains the most recent build. Individual files can also be downloaded separately.
 
 ## Videos
 
