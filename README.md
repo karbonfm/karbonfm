@@ -15,8 +15,7 @@ Password: karbon
 
 ## Videos
 
-Introduction to Karbon: 
-http://vimeo.com/284639445
+[Welcome to Karbon](http://vimeo.com/284639445). Join us on a brief introduction to the core elements of Karbon.
 
 ## Contributing
 
