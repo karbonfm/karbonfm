@@ -15,7 +15,8 @@ Password: karbon
 
 ## Videos
 
-Stay tuned…
+Introduction to Karbon: 
+http://vimeo.com/284639445
 
 ## Contributing
 
