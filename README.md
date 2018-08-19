@@ -9,7 +9,7 @@ Check the releases link (above) for the most recent version. You can grab the co
 
 The following full-access account will get you in to every file: 
 
-* Accpimt name: admin
+* Account name: admin
 * Password: karbon
 
 ## Videos
