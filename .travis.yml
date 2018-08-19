@@ -1,0 +1,12 @@
+install: true
+script:
+- zip KarbonFM.zip KarbonFM/*
+deploy:
+  provider: releases
+  api_key:
+    secure: OMyKAohTbIrfjlxju91eojaGJvB1T8E1AW/Pu/wIAALW44RBm/UAxVS9Z8ewxdyhMuQsKkIsiDyN0SUvoJDw/FaHoGa3wskCbJSvjUDDCuz+3iGrwS+S4biO1QXMssnFh/lkyXlxYdfMRTdTGzEBghJ1Q56gCxkEb5rfwyDJqZ4NFV2o11xro/3JUaenXi6exdZbObxF3p7pqW+AU6cs5hMJqS4HkbJay4HhEqEHykRE+Fb0Wbh747b/Nl2QUepB7RbfvME6nwjuIBaqyS4RSHgV55q+YrcUMCRcZQ5vJcbl9Tk0/GJRZr3/4hJfABilPImG5p6sApo2Ds03dXwmFSbfnZTZujoI+ljFl06fCTwko5mtYHrExzTLT++/cwpYGXnuhI66cfUJF5Oj+PMvHWfc/GpzpdKK5WTcjOBP+CqFdcLsIxun4MHa7LU1W9zH6kbU21HsfZiTV4iHG9W53EXA7gRrS63FGPFjlJnipUDCUELB2mPQVvNOn6BmiArjBmMzRTd8SOEE/TuiWpI3r5q2FzsOyhlr/1J37jZSXpNXbgLCMG+maQFUGUY0Mn0m2NX+l1DGBv5Ja617CiLJ9bsMmB7BARA+3PxusddImrDAulIraXy6Fe+akcMsA1dKyPlCmkx8bbcrfMTpKihkiPPu06Hb7iHLgxzqNaclvS8=
+  file: KarbonFM.zip
+  skip_cleanup: true
+  on:
+    repo: karbonfm/karbonfm
+    tags: true
