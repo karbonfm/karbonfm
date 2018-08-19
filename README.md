@@ -5,7 +5,7 @@ This is the main repo for Karbon for FileMaker—a developer framework for build
 
 ## Getting Started
 
-Check the releases tab for the most recent version. You can grab the compressed archive of the entire build or download inidividual files from the KarbonFM folder. 
+Check the releases link (above) for the most recent version. You can grab the compressed archive of the entire build or download inidividual files from the KarbonFM folder. 
 
 The following full-access account will get you in to every file: 
 
