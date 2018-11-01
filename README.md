@@ -18,7 +18,9 @@ The following full-access account will get you in to every file:
 
 ## Contributing
 
-We welcome contributions from the community. That's what this is all about.
+We welcome contributions from the community. That's what this is all about. 
+
+Jump into the conversation at https://discourse.karbon.fm
 
 FileMaker files don't lend themselves well to Github since we can't do merges and pull requests. But we can still use Github for issues, comments, and planning.
 
