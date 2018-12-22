@@ -1,7 +1,7 @@
 ![Logo](KarbonLogo.png "Logo Title Text 1")
 
 # karbonfm
-This is the main repo for Karbon for FileMaker—a developer framework for building scalable applications in FileMaker. The application is essential a contact management system or CRM, however the true value in #karbonfm is its approach to data modeling, transactional scripting, and a rich library of custom functions that make error handling and validation a breeze. You should read the Karbon Manifesto https://www.geistinteractive.com/2018/07/30/the-karbon-manifesto/ to better understand what this project hopes to become.
+This is the main repo for Karbon for FileMaker—a developer framework for building scalable applications in FileMaker. The application is essential a contact management system or CRM, however the true value in #karbonfm is its approach to data modeling, transactional scripting, and a rich library of custom functions that make error handling and validation a breeze. You should read the Karbon Manifesto https://www.geistinteractive.com/2018/07/30/the-karbon-manifesto/ to better understand what this project hopes to become, and jump into the conversation at https://discourse.karbon.fm.
 
 ## Getting Started
 
@@ -18,7 +18,7 @@ The following full-access account will get you in to every file:
 
 ## Contributing
 
-We welcome contributions from the community. That's what this is all about.
+We welcome contributions from the community. That's what this is all about. 
 
 FileMaker files don't lend themselves well to Github since we can't do merges and pull requests. But we can still use Github for issues, comments, and planning.
 
